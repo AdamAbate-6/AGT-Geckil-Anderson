@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Because the Geckil and Anderson way of representing payoff matrices was stupid.
+# Because the Geckil and Anderson way of representing payoff matrices was silly.
 
 # Enter prisoner 1's payoffs.
 #X1 = input("Enter a value for X1: ")
